@@ -1,81 +1,86 @@
 # 🚆 Railway Data Engineering Project
 
-## 📌 Overview
-
-This project focuses on building a **data engineering pipeline** for railway data analysis. It involves collecting, processing, and analyzing railway datasets to extract meaningful insights.
-
-The project was developed as part of an **IBM Data Engineering program**, and a certification has been earned upon completion.
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Data%20Engineering-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-IBM-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" />
+</p>
 
 ---
 
-## 🎯 Objectives
+## 📌 About the Project
 
-* Process large railway datasets efficiently
-* Clean and transform raw data
-* Perform data analysis for insights
-* Build a structured data pipeline
+This project focuses on building a **Data Engineering pipeline** using railway datasets.
+It involves **data collection, cleaning, transformation, and analysis** to extract meaningful insights.
+
+🎓 Developed as part of the **IBM Data Engineering Program**
+🏆 Successfully completed with certification
+
+---
+
+## 🎯 Key Objectives
+
+✨ Process large railway datasets efficiently
+✨ Perform data cleaning & preprocessing
+✨ Transform raw data into structured format
+✨ Generate useful insights for analysis
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Python**
-* **Pandas**
-* **CSV Data Processing**
-* **Jupyter Notebook / Python Scripts**
-* **Data Cleaning & Transformation**
+| Technology           | Usage             |
+| -------------------- | ----------------- |
+| 🐍 Python            | Core programming  |
+| 📊 Pandas            | Data manipulation |
+| 📁 CSV               | Dataset handling  |
+| 📓 Jupyter / Scripts | Development       |
+| ⚙️ Data Engineering  | Pipeline building |
 
 ---
 
 ## 📂 Project Structure
 
-```
-📁 Railway Project
-│-- README.md
-│-- Railway_Data_Engineering_Report.docx
-│-- railway_info.csv
-│-- railway_final_reprt.py
+```bash
+📁 Railway-Data-Engineering
+│── README.md
+│── Railway_Data_Engineering_Report.docx
+│── railway_info.csv
+│── railway_final_reprt.py
 ```
 
 ---
 
 ## ⚙️ Features
 
-* Data cleaning and preprocessing
-* Handling missing and inconsistent data
-* Data transformation using Python
-* Generating insights from railway datasets
+🚀 Data Cleaning & Preprocessing
+🚀 Handling Missing Values
+🚀 Data Transformation
+🚀 Insight Generation from Railway Data
 
 ---
 
-## 📊 Dataset
+## 📊 Dataset Insights
 
-The dataset contains railway-related information such as:
-
-* Train details
-* Routes
-* Timing
-* Other operational data
+The dataset includes:
+✔ Train Information
+✔ Routes & Stations
+✔ Timing Details
+✔ Operational Data
 
 ---
 
 ## 🚀 How to Run
 
-1. Clone the repository
-
-```
+```bash
+# Clone the repository
 git clone https://github.com/Aradhana-Mohanty2000/railway-data-engineering
-```
 
-2. Navigate to the project folder
+# Navigate to project
+cd railway-data-engineering
 
-```
-cd railway-project
-```
-
-3. Run the Python script
-
-```
+# Run the script
 python railway_final_reprt.py
 ```
 
@@ -83,16 +88,16 @@ python railway_final_reprt.py
 
 ## 📜 Certification
 
-This project is part of an **IBM Data Engineering certification program**.
-✔ Successfully completed and certified
+🎓 IBM Data Engineering Certification
+✔ Successfully completed this project as part of the program
 
 ---
 
-## 📈 Future Improvements
+## 📈 Future Enhancements
 
-* Add real-time data processing
-* Integrate with big data tools (Spark, Hadoop)
-* Build dashboards for visualization
+🔮 Real-time data processing
+🔮 Integration with Apache Spark / Hadoop
+🔮 Dashboard visualization (Power BI / Tableau)
 
 ---
 
@@ -100,8 +105,15 @@ This project is part of an **IBM Data Engineering certification program**.
 
 **Aradhana Mohanty**
 
+📧 Connect with me on LinkedIn *(www.linkedin.com/in/aradhana-mohanty-96a635214)*
+
 ---
 
-## ⭐ Acknowledgment
+## ⭐ Support
 
-Thanks to **IBM** for providing the learning platform and project framework.
+If you like this project, give it a ⭐ on GitHub!
+It motivates me to build more such projects 🚀
+
+---
+
+<p align="center">✨ Built with passion for Data Engineering ✨</p>
